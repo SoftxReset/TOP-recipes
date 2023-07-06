@@ -5,5 +5,42 @@
 }
 
 body {
-    background-color: ;
+    font-family: Cambria;
+}
+
+.title-holder {
+    background-color:palevioletred;
+    padding: 1px;
+}
+
+.title {
+    margin: 15px;
+}
+
+.chef-dog {
+    border-radius: 10px;
+}
+
+.tiramisu,
+.latke,
+.pad-see {
+    margin: 15px;
+    padding: 10px;
+    color: white;
+}
+
+.tiramisu {
+    background-color: blueviolet;
+}
+
+.latke {
+    background-color: green
+}
+
+.pad-see {
+    background-color: navy;
+}
+
+.recipe-link {
+    color: darkgray
 }
