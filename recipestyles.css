@@ -1,28 +1,9 @@
 * {
-    background-color: #F9EBC7;
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
 }
 
-.dark-olive-green {
-    background-color: #5F6F52;
-    height: 500px;
-    width: 500px;
-    border-radius: 50%;
-}
-
-.laurel-green {
-    background-color: #A9B388;
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-}
-
-.corn-silk {
-    background-color: #FEFAE0;
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-}
-
-.parent {
-    position:relative;
+body {
+    background-color: ;
 }
